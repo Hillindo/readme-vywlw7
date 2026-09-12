@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Hillindo.github.io/readme-vywlw7/sitemap.xml
